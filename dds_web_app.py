@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Set page config (optional)
 st.set_page_config(page_title="Tal and Yuval DDS Project", layout="wide")
 
-st.title("Tal and Yuval DDS Project - for Prof.Yosef Pinhasi")
+st.title("Tal and Yuval DDS Project - for Prof. Yosef Pinhasi")
 
 # Create two tabs in Streamlit
 tab1, tab2 = st.tabs(["Accumulator DDS", "LUT-based DDS"])
