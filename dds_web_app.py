@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(layout="wide", page_title="DDS Table Entry Demo")
 
 # UI
-st.title("🌀 Direct Digital Synthesizer (DDS) Demo")
+st.title("🌀 Direct Digital Synthesizer (DDS) Demo - Tal and Yuval")
 table_entries = st.slider("Number of LUT Entries", min_value=4, max_value=64, value=19)
 
 # DDS waveform generation
