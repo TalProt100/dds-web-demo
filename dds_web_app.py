@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Set page config (optional)
-st.set_page_config(page_title="Combined DDS Demo", layout="wide")
+st.set_page_config(page_title="Tal and Yuval DDS Project", layout="wide")
 
 st.title("Combined DDS Demo")
 
